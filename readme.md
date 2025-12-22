@@ -23,6 +23,7 @@ This project is a compilation of hard work by the horror community:
 
 * **Dead Meat**: Many counts are sourced from James A. Janisse’s "Kill Count" series and the [Dead Meat Wiki](https://the-dead-meat.fandom.com/).
 * **MovieBodyCounts**: Original data contributed by the legacy community at [moviebodycounts.com](http://www.moviebodycounts.com/).
+* **List of Deaths Wiki**: Additional counts sourced from the [List of Deaths Wiki](https://listofdeaths.fandom.com/wiki/Horror_Films_(Death_Count)).
 * **Randal Olson**: For the initial 2013-2014 scraped dataset that formed the foundation of this list.
 
 ## How to Contribute
