@@ -11,14 +11,12 @@ title,year,count,tmdb_id
 5 Dead on the Crimson Canvas,1996,9,104377
 68 Kill,2017,11,367462
 [•REC],2007,16,8329
-[•REC]²,2009,13,8329
+[•REC]²,2009,13,10664
 [•REC]³: Génesis,2012,161,80280
 [•REC]⁴: Apocalypse,2014,41,185341
 A Bay of Blood,1971,13,5486
 A Bucket of Blood,1959,4,22642
-A Bucket of Blood,1995,4,222858
 A Nightmare on Elm Street,1984,4,377
-A Nightmare on Elm Street,2010,5,377
 A Nightmare on Elm Street 2: Freddy's Revenge,1985,10,10014
 A Nightmare on Elm Street 3: Dream Warriors,1987,6,10072
 A Nightmare on Elm Street 4: The Dream Master,1988,7,10131
@@ -104,7 +102,7 @@ Candyman: Farewell to the Flesh,1995,9,10824
 Cargo,2019,35,640421
 Carrie,1976,73,7340
 Carrie,2002,234,7342
-Carrie,2013,22,7340
+Carrie,2013,22,133805
 Chain Letter,2010,19,38033
 Cheerleader Camp,1988,9,40087
 Child's Play,1988,6,10585
@@ -177,8 +175,7 @@ Eraserhead,1977,1,985
 Escape Room,2019,15,522681
 Evil Bong,2006,4,10089
 Evil Dead,2013,9,109428
-Evil Dead 2,1987,8,765
-Evil Dead II: Dead by Dawn,1987,8,765
+Evil Dead II,1987,8,765
 Evil Dead Rise,2023,12,713704
 Evil Ed,1995,14,25234
 Exorcist II: The Heretic,1977,5,11586
@@ -229,7 +226,7 @@ Gutterballs,2008,13,16915
 Hack-O-Lantern,1988,8,95114
 Halloween,1978,5,948
 Halloween,2007,22,2082
-Halloween,2018,17,948
+Halloween,2018,17,424139
 Halloween 4: The Return of Michael Myers,1988,16,11357
 Halloween 5: The Revenge of Michael Myers,1989,20,11361
 Halloween Ends,2022,18,616820
@@ -277,7 +274,6 @@ I Know What You Did Last Summer,1997,6,3597
 I Still Know What You Did Last Summer,1998,10,3600
 I'll Always Know What You Did Last Summer,2006,6,3602
 Ice Cream Man,1995,9,44470
-Ice Nine Kills - The Silver Scream,2018,27,1173313
 Ice Road Terror,2011,14,74328
 Iced,1989,6,83283
 Idle Hands,1999,16,6552
@@ -295,7 +291,6 @@ It's A Wonderful Knife,2023,14,1113278
 It: Chapter Two,2019,8,474350
 Jack Brooks: Monster Slayer,2007,15,16205
 Jack Frost,1997,10,27318
-Jack Frost,1998,57,9745
 Jack Frost 2: Revenge of the Mutant Killer Snowman,2000,33,27320
 Jason Goes to Hell: The Final Friday,1993,24,10285
 Jason X,2001,25,11470
@@ -307,8 +302,6 @@ Jeepers Creepers,2001,28,8922
 Jennifer's Body,2009,18,19994
 Jigsaw,2017,16,298250
 John Dies at the End,2013,33,75761
-Jolly Roger: Massacre at Cutter's Cove,2005,19,54963
-Jolly Roger: Massacre at Cutter's Cove,2005,14,54963
 Jurassic Park,1993,5,329
 Jurassic Park III,2001,6,331
 Jurassic World,2015,23,135397
@@ -346,7 +339,6 @@ Madman,1978,11,191051
 Magic,1978,3,34193
 Malignant,2021,46,619778
 Mandy,2018,13,460885
-Mandy,1952,14,47026
 Manhunter,1986,10,11454
 Maniac,1980,8,27346
 Maniac,2012,8,103620
@@ -466,7 +458,6 @@ Stitches,2012,6,115210
 Student Bodies,1981,15,21515
 Studio 666,2022,15,895744
 Suspiria,1977,9,11906
-Suspiria,2018,25,361292
 Suspiria,2018,14,361292
 Sweeney Todd: The Demon Barber of Fleet Street,2007,11,13885
 Sweeney Todd: The Demon Barber of Fleet Street,1995,12,1304433
@@ -650,19 +641,3 @@ You'll Die at Midnight,1986,9,29191
 You're Next,2011,15,83899
 Zombieland,2009,116,19908
 Zombieland: Double Tap,2019,376,338967
-Troll 2,1990,14,26914
-Bats,1999,74,10496
-2001: A Space Odyssey,1968,6,62
-Salem's Lot,2024,45,748230
-Little Shop of Horrors,1986,3,10776
-Lord of the Flies,1990,3,10847
-The Conference,2023,11,1161048
-Abraham Lincoln Vs. Zombies,2012,277,98948
-Choose or Die,2022,6,838484
-House,1985,11,11415
-Invasion of the Body Snatchers,1978,49,11850
-John Dies at the End,2013,33,75761
-Studio 666,2022,15,895744
-Donnie Darko,2001,14,141
-Parasite,2019,4,496243
-Scanners,1981,26,9538
