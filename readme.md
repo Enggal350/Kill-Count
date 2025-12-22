@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://killshot.rip/images/KILLSHOT.svg" alt="Killshot Logo" width="500">
+</p>
+
 # Horror Movie Kill Counts
 
 A community-driven, machine-readable database of horror movie body counts. This data powers [killshot.rip](https://killshot.rip).
